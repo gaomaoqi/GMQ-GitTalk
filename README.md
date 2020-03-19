@@ -1,2 +1,1 @@
-# Bashu
-Bashu Middle School
+
